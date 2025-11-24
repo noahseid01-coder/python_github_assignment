@@ -6,6 +6,7 @@
 # hours. Includes error handling.
 # ----------------------------------------------
 
+# Task 1 — Welcome message
 print("Welcome to the Study Time Tracker!")
 
 # Task 2 — Ask for user input
